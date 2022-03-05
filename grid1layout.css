@@ -1,0 +1,31 @@
+
+
+.content-container{
+    display: grid;
+    grid-template-rows:repeat(1) ;
+    grid-template-columns: 150px 300px;
+    grid-gap:10px; 
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 100px;
+    
+    align-items: auto;
+
+}
+
+.cc1{width: 200px;
+    height: 320px;
+    background-color: rgb(177, 17, 17);
+    
+  
+   margin-left: 30px;
+}
+.video{
+    width:100px;
+    height: 330px;
+    
+    ;margin-left:100px;
+   
+    margin-right: 100px;
+
+}
